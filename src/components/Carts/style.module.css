@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.carts {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
